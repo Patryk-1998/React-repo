@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAIA","sources":["src/css/style.css"],"sourcesContent":["body {\r\n  background-color: rgb(186, 83, 83);\r\n}\r\n\r\nh1 {\r\n  color: blue;\r\n}\r\n"],"names":[],"version":3,"file":"index.c92073ef.css.map","sourceRoot":"/__parcel_source_root/"}
